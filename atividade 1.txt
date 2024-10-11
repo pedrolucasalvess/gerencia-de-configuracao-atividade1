@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ultimo commit de verdade
+=======
+penultimo commit
+>>>>>>> parent of 05ad14e... décimo commit
